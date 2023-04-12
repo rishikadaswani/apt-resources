@@ -1,0 +1,13 @@
+name: resources_app
+title: resources_app
+username:
+account: rishikadaswani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7950323
+bundleId: 6677994
+url: https://rishikadaswani.shinyapps.io/resources_app/
+when: 1672215476.14198
+lastSyncTime: 1672215476.14199
+asMultiple: FALSE
+asStatic: FALSE

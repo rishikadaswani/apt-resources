@@ -1,0 +1,44 @@
+level,type,where,description,link,Name,metadata
+undergrad,research,UBC,,https://www.ubc.ca/,,institution
+undergrad,research,HLI,,https://www.hli.ubc.ca/,,institution
+undergrad,research,BC Cancer,,http://www.bccancer.bc.ca/,,institution
+undergrad,research,BC Children Research Institute,,https://www.bcchr.ca/,,institution
+undergrad,research,UBC,The Faculty of Medicine Multidisciplinary Research Program in Medicine (FoM MRPM) provides undergraduate students with an opportunity to explore their interest in interdisciplinary and multidisciplinary research by undertaking a summer project supervised by a cross-faculty pair of researchers,https://www.med.ubc.ca/current-learners/multidisciplinary-research-program-in-medicine/,FoM MRPM,
+undergrad,research,UBC,Natural Sciences and Engineering Research Council of Canada (NSERC) subsidizes eligible professors to hire students to work on interesting research-related jobs and projects.,https://students.ubc.ca/career/campus-experiences/undergraduate-research/nserc-undergraduate-student-research-awards,NSERC URA,
+undergrad,research,UBC,The Faculty of Medicine Summer Student Research Program (FoM SSRP) provides undergraduate students with an opportunity to explore their interest in health research by undertaking a summer project supervised by a Faculty of Medicine researcher.,https://www.med.ubc.ca/current-learners/summer-student-research-program/?login,SSRP,
+undergrad,work,UBC,,https://ubc-csm.symplicity.com/,CareersOnline,
+undergrad,work,multiple,,https://www.biotalent.ca/login/?redirect_to=https%3A%2F%2Fwww.biotalent.ca%2Fapplication-packages%2F54069%2Faction%2Fnext,BioTalent,
+undergrad,extracirricular,UBC,choose from over 300 clubs,https://you.ubc.ca/ubc-life/getting-involved/clubs/,Clubs and societies,
+undergrad,volunteering,,"community-based opportunities to learn, participate, and collaborate on projects in the community.",https://students.ubc.ca/about-student-services/centre-community-engaged-learning,Centre for Community Engaged Learning,
+undergrad,study,international,,https://students.ubc.ca/career/international-experiences,Go Global,
+undergrad,research,international,,https://students.ubc.ca/career/international-experiences,Go Global,
+undergrad,research,UBC,,https://www.grad.ubc.ca/prospective-students/application-admission/apply-online,grad school,
+undergrad,conferences,,"conference for UBC undergraduate students to present their research with fellow UBC students, family, and friends",https://students.ubc.ca/career/events-workshops/multidisciplinary-undergraduate-research-conference,Multidisciplinary Undergraduate Research Conference (MURC),
+undergrad,conferences,UBC,"he Student Leadership Conference (SLC) will facilitate a collaborative and inclusive educational environment, which will inspire the campus community, provide valuable peer-to-peer learning experiences, and engage students as they share and develop their leadership skills effectively.",https://slc.students.ubc.ca/?login,Student Leadership Conference,
+Grad,leadership,HLI,,https://www.hli.ubc.ca/education/,TAHLI,
+Grad,leadership,BC Children Research Institute,"team of enthusiastic trainees from across the different research themes at BCCHR who are eager to make bioinformatics and data analysis accessible (and fun) for everyone - be it a fellow trainee, research staff, or even a PI wanting analysis support",https://www.bcchr.ca/tog,TOG,
+Grad,leadership,BC Cancer,BCCRC Graduate Student and Post Doctoral Society (GrasPods) has been creating opportunities for trainees and post doctoral fellows to learn and network.,https://www.graspods.com/,Grasspods,
+Grad,conferences,USA,"A society that includes basic science, the failing heart and advanced lung disease",https://www.ishlt.org/,International Society for Heart and Lung Transplantation (ISHLT),Heart and Lung
+Grad,conferences,Canada,"The CCC is the largest gathering of cardiovascular and allied health professionals in Canada. This event brings together the individuals who work across the spectrum of cardiovascular health – from research to patient care – and stimulates interaction within the cardiovascular community. It is a forum to showcase the best research and to promote learning, through scientific sessions, interactive workshops, late-breaking clinical trials, and lively debates.",https://ccs.ca/canadian-cardiovascular-congress/,Canadian Cardiovascular Congress (CCC),Heart
+Grad,conferences,USA,,https://conference.thoracic.org/,American Thoracic Society (ATS),Lung
+Grad,conferences,"Aspen, USA",,https://medschool.cuanschutz.edu/aspen,Thomas L. Petty Aspen Lung Conference,Lung
+Grad,conferences,USA,,https://icml-compbio.github.io/,International Conference on Machine Learning (ICML),Computational Biology
+Grad,conferences,USA,,https://sites.google.com/cs.washington.edu/mlcb2022/?pli=1,ML CompBio at NeurIPS,Computational Biology
+Grad,research,UBC,The Three Minute Thesis (3MT) is an academic competition that assists current graduate students with fostering effective presentation and communication skills. Participants have just three minutes to explain the breadth and significance of their research project to a non-specialist audience.,https://3mt.grad.ubc.ca/?login,3MT,presentation
+Grad,comprehensive exams,,,https://exp.med.ubc.ca/current-students-2/progress-and-milestones-for-phd-students/comprehensive-exam/?login,oral-exam,experimental medicine
+Grad,comprehensive exams,,,,grant-based,pathology
+all,research,,,,how to write a paper,writing
+all,networking,,,,D.R.I.N.K.S.,social
+all,writing,,,https://www.greatminds.studio/lx/Plain-Language/story.html,Plan Language Guide,BC Support Unit
+all,writing,,,https://mssociety.ca/uploads/files/guide-to-writing-lay-summary-eng-final20130726.pdf,Guide to writing a lay summary,Multiple Sclerosis Soceity of Canada
+all,living,,,,,budgeting
+all,living,,,,,taxes
+all,training,,,,,wet-lab
+all,training,,,,,wet-lab
+all,training,UBC,free service supporting the high-performance computing and data management needs of UBC researchers.,https://arc.ubc.ca/,UBC ARC,dry-lab
+all,training,UBC,free service supporting the high-performance computing and data management needs of UBC researchers.,https://www.youtube.com/@ubcadvancedresearchcomputi6355/videos?view=0&sort=dd&shelf_id=0,UBC ARC Youtube channel,dry-lab
+all,training,,,,,dry-lab
+all,training,,,,,dry-lab
+Faculty,research,,,,how to get an R01,Funding
+Faculty,professional development,,,https://www.facultydiversity.org/fsp-bootcamp,Faculty Success Program,
+Faculty,research,,,https://www.youtube.com/watch?v=3Pdegl9uZ38&ab_channel=Labroots,Writing the NIH Research (R01) grant: Strategies for Success,Funding
